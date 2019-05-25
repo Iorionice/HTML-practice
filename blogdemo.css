@@ -1,0 +1,43 @@
+body
+{
+	margin: auto;
+}
+
+div.Contents
+{
+	width:80%;
+	max-height:700px;
+	border: 20px solid #bdc3c7;
+	margin :20px auto;
+	padding :10px;
+	position: relative;
+    font-family:sourse sans pro;
+}
+
+p.date 
+{
+color:#3498db;
+text-transform:uppercase;
+}
+
+h2
+{
+ font-color:#2c3e50;
+ font-size: 2.0rem;
+}
+
+.Initial{
+	border-left:5px solid #bdc3c7;
+	padding-left:5px;
+	margin-bottom:20px;
+}
+
+
+/*&.End{
+	border-bottom:1px solid #bdc3c7; 
+	line-height: 20px;
+}*/
+
+span{
+	letter-spacing: 0.2rem;
+}
